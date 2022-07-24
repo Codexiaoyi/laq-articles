@@ -1,0 +1,6 @@
+{
+    "publish_time": "2022/07/24",
+    "publisher": "zzzqi",
+    "is_top": false,
+    "summary": "vue是采用数据劫持结合发布者-订阅者模式的方法，通过Object.defineProPerty()来劫持各个属性的setter，getter，在数据变动时发布消息给订阅者，触发相应的监听回调。"
+}
